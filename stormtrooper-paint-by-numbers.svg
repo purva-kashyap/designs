@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 297" width="210mm" height="297mm">
+  <!-- A4 Size: 210mm x 297mm -->
+  
+  <!-- Background -->
+  <rect width="210" height="297" fill="white"/>
+  
+  <!-- Title -->
+  <text x="105" y="15" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">
+    SPACE SOLDIER HELMET - Paint by Numbers
+  </text>
+  
+  <!-- Main helmet outline and sections -->
+  <g id="helmet" transform="translate(105, 110)">
+    
+    <!-- Outer helmet shell -->
+    <path d="M -45,-60 Q -55,-55 -55,-40 L -55,25 Q -55,40 -45,50 L -20,65 Q 0,70 20,65 L 45,50 Q 55,40 55,25 L 55,-40 Q 55,-55 45,-60 Q 0,-70 -45,-60 Z" 
+          fill="none" stroke="black" stroke-width="1.5"/>
+    
+    <!-- Top dome sections -->
+    <!-- Section 1: Top center (white) -->
+    <path d="M -20,-60 Q 0,-65 20,-60 L 15,-45 Q 0,-48 -15,-45 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="0" y="-50" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">1</text>
+    
+    <!-- Section 2: Top left (light gray) -->
+    <path d="M -45,-60 Q -50,-50 -48,-35 L -30,-40 L -15,-45 L -20,-60 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="-32" y="-45" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">2</text>
+    
+    <!-- Section 3: Top right (light gray) -->
+    <path d="M 20,-60 L 15,-45 L 30,-40 L 48,-35 Q 50,-50 45,-60 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="32" y="-45" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">3</text>
+    
+    <!-- Section 4: Left upper side (medium gray) -->
+    <path d="M -48,-35 Q -52,-20 -52,0 L -40,0 L -35,-10 L -30,-25 L -30,-40 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="-42" y="-15" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">4</text>
+    
+    <!-- Section 5: Right upper side (medium gray) -->
+    <path d="M 48,-35 L 30,-40 L 30,-25 L 35,-10 L 40,0 L 52,0 Q 52,-20 48,-35 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="42" y="-15" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">5</text>
+    
+    <!-- Visor area (combined) -->
+    <!-- Section 6: Left visor (dark gray/black) -->
+    <path d="M -40,0 L -52,0 Q -52,8 -50,15 Q -48,20 -42,22 L -25,15 L -20,8 L -25,0 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="-35" y="12" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">6</text>
+    
+    <!-- Section 7: Center visor bridge (white) -->
+    <path d="M -25,0 L -20,8 L -10,10 L 10,10 L 20,8 L 25,0 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="0" y="7" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">7</text>
+    
+    <!-- Section 8: Right visor (dark gray/black) -->
+    <path d="M 25,0 L 20,8 L 25,15 L 42,22 Q 48,20 50,15 Q 52,8 52,0 L 40,0 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="35" y="12" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">8</text>
+    
+    <!-- Mouth/chin area -->
+    <!-- Section 9: Mouth grill area (medium-dark gray) -->
+    <ellipse cx="0" cy="35" rx="32" ry="15" fill="white" stroke="black" stroke-width="1"/>
+    <line x1="-28" y1="35" x2="28" y2="35" stroke="black" stroke-width="0.8"/>
+    <line x1="-20" y1="25" x2="-20" y2="45" stroke="black" stroke-width="0.8"/>
+    <line x1="-10" y1="25" x2="-10" y2="45" stroke="black" stroke-width="0.8"/>
+    <line x1="0" y1="25" x2="0" y2="45" stroke="black" stroke-width="0.8"/>
+    <line x1="10" y1="25" x2="10" y2="45" stroke="black" stroke-width="0.8"/>
+    <line x1="20" y1="25" x2="20" y2="45" stroke="black" stroke-width="0.8"/>
+    <text x="0" y="38" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">9</text>
+    
+    <!-- Section 10: Lower chin/cheek areas (light gray) -->
+    <path d="M -42,22 L -35,28 L -32,35 Q -30,45 -25,52 L -15,55 L 15,55 L 25,52 Q 30,45 32,35 L 35,28 L 42,22 L 50,15 Q 52,20 52,30 L 52,40 Q 50,50 42,55 L 20,65 Q 0,68 -20,65 L -42,55 Q -50,50 -52,40 L -52,30 Q -52,20 -50,15 Z" 
+          fill="white" stroke="black" stroke-width="1"/>
+    <text x="-38" y="45" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">10</text>
+    <text x="38" y="45" font-family="Arial" font-size="6" text-anchor="middle" font-weight="bold">10</text>
+    
+  </g>
+  
+  <!-- Color Key Legend -->
+  <g id="color-key" transform="translate(15, 230)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="black">
+      COLOR KEY (Grayscale Palette)
+    </text>
+    
+    <!-- Key item 1 -->
+    <rect x="0" y="5" width="15" height="8" fill="white" stroke="black" stroke-width="0.5"/>
+    <text x="18" y="12" font-family="Arial" font-size="5" fill="black">1 - White</text>
+    
+    <!-- Key item 2 -->
+    <rect x="0" y="15" width="15" height="8" fill="#E8E8E8" stroke="black" stroke-width="0.5"/>
+    <text x="18" y="22" font-family="Arial" font-size="5" fill="black">2 - Very Light Gray</text>
+    
+    <!-- Key item 3 -->
+    <rect x="0" y="25" width="15" height="8" fill="#E8E8E8" stroke="black" stroke-width="0.5"/>
+    <text x="18" y="32" font-family="Arial" font-size="5" fill="black">3 - Very Light Gray</text>
+    
+    <!-- Key item 4 -->
+    <rect x="0" y="35" width="15" height="8" fill="#CCCCCC" stroke="black" stroke-width="0.5"/>
+    <text x="18" y="42" font-family="Arial" font-size="5" fill="black">4 - Light Gray</text>
+    
+    <!-- Key item 5 -->
+    <rect x="0" y="45" width="15" height="8" fill="#CCCCCC" stroke="black" stroke-width="0.5"/>
+    <text x="18" y="52" font-family="Arial" font-size="5" fill="black">5 - Light Gray</text>
+    
+    <!-- Key item 6 -->
+    <rect x="100" y="5" width="15" height="8" fill="#333333" stroke="black" stroke-width="0.5"/>
+    <text x="118" y="12" font-family="Arial" font-size="5" fill="black">6 - Very Dark Gray</text>
+    
+    <!-- Key item 7 -->
+    <rect x="100" y="15" width="15" height="8" fill="white" stroke="black" stroke-width="0.5"/>
+    <text x="118" y="22" font-family="Arial" font-size="5" fill="black">7 - White</text>
+    
+    <!-- Key item 8 -->
+    <rect x="100" y="25" width="15" height="8" fill="#333333" stroke="black" stroke-width="0.5"/>
+    <text x="118" y="32" font-family="Arial" font-size="5" fill="black">8 - Very Dark Gray</text>
+    
+    <!-- Key item 9 -->
+    <rect x="100" y="35" width="15" height="8" fill="#888888" stroke="black" stroke-width="0.5"/>
+    <text x="118" y="42" font-family="Arial" font-size="5" fill="black">9 - Medium Gray</text>
+    
+    <!-- Key item 10 -->
+    <rect x="100" y="45" width="15" height="8" fill="#E8E8E8" stroke="black" stroke-width="0.5"/>
+    <text x="118" y="52" font-family="Arial" font-size="5" fill="black">10 - Very Light Gray</text>
+  </g>
+  
+  <!-- Instructions -->
+  <g id="instructions" transform="translate(15, 285)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="5" fill="black">
+      Instructions: Match each numbered section with the corresponding color from the key above. Use paint, markers, or colored pencils!
+    </text>
+  </g>
+</svg>
